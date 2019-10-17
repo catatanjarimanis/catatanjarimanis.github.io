@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.catatanjarimanis.my.id/</loc>
+    <lastmod>2019-10-16T11:57:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.catatanjarimanis.my.id/post/</loc>
+    <lastmod>2019-10-16T11:57:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.catatanjarimanis.my.id/test/</loc>
+    <lastmod>2019-10-16T11:57:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.catatanjarimanis.my.id/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.catatanjarimanis.my.id/tags/</loc>
+  </url>
+  
+</urlset>
